@@ -80,6 +80,7 @@ build/
 *.pidb
 *.log
 *.scc
+UpDllUtils.*
 
 # Visual C++ cache files
 ipch/
