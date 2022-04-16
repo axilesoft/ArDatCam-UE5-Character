@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ARDatPlayer",
+	"Description": "Render video from ArDatCam",
+	"Category": "Other",
+	"CreatedBy": "Axilesoft",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ARDatPlayer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
